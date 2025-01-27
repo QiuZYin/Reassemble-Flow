@@ -1,0 +1,237 @@
+2023-12-19 16:43:51.437021 ../Datas/CICIDS2018/PCAP/Friday-02-03-2018\capDESKTOP-AN3U28N-172.31.65.10
+Label: Botnet 		Number: 0
+Label: Benign 		Number: 9010
+
+2023-12-19 16:43:52.926536 ../Datas/CICIDS2018/PCAP/Friday-02-03-2018\capDESKTOP-AN3U28N-172.31.65.81
+Label: Botnet 		Number: 0
+Label: Benign 		Number: 204
+
+2023-12-19 16:44:00.343008 ../Datas/CICIDS2018/PCAP/Friday-02-03-2018\capDESKTOP-AN3U28N-172.31.66.76
+Label: Botnet 		Number: 0
+Label: Benign 		Number: 7901
+
+2023-12-19 16:44:11.074240 ../Datas/CICIDS2018/PCAP/Friday-02-03-2018\capEC2AMAZ-O4EL3NG-172.31.69.10
+Label: Botnet 		Number: 11025
+Label: Benign 		Number: 10553
+
+2023-12-19 16:44:17.213913 ../Datas/CICIDS2018/PCAP/Friday-02-03-2018\capEC2AMAZ-O4EL3NG-172.31.69.12
+Label: Botnet 		Number: 4920
+Label: Benign 		Number: 4528
+
+2023-12-19 16:44:27.205838 ../Datas/CICIDS2018/PCAP/Friday-02-03-2018\capEC2AMAZ-O4EL3NG-172.31.69.14
+Label: Botnet 		Number: 10472
+Label: Benign 		Number: 7281
+
+2023-12-19 16:44:36.972680 ../Datas/CICIDS2018/PCAP/Friday-02-03-2018\capEC2AMAZ-O4EL3NG-172.31.69.17
+Label: Botnet 		Number: 10529
+Label: Benign 		Number: 7512
+
+2023-12-19 16:44:47.791836 ../Datas/CICIDS2018/PCAP/Friday-02-03-2018\capEC2AMAZ-O4EL3NG-172.31.69.23
+Label: Botnet 		Number: 10450
+Label: Benign 		Number: 10009
+
+2023-12-19 16:44:55.705851 ../Datas/CICIDS2018/PCAP/Friday-02-03-2018\capEC2AMAZ-O4EL3NG-172.31.69.26
+Label: Botnet 		Number: 10100
+Label: Benign 		Number: 6855
+
+2023-12-19 16:45:06.363775 ../Datas/CICIDS2018/PCAP/Friday-02-03-2018\capEC2AMAZ-O4EL3NG-172.31.69.29
+Label: Botnet 		Number: 10127
+Label: Benign 		Number: 10358
+
+2023-12-19 16:45:17.012628 ../Datas/CICIDS2018/PCAP/Friday-02-03-2018\capEC2AMAZ-O4EL3NG-172.31.69.30
+Label: Botnet 		Number: 11099
+Label: Benign 		Number: 10429
+
+2023-12-19 16:45:28.978329 ../Datas/CICIDS2018/PCAP/Friday-02-03-2018\capEC2AMAZ-O4EL3NG-172.31.69.6
+Label: Botnet 		Number: 10915
+Label: Benign 		Number: 12208
+
+2023-12-19 16:45:38.575827 ../Datas/CICIDS2018/PCAP/Friday-02-03-2018\capEC2AMAZ-O4EL3NG-172.31.69.8
+Label: Botnet 		Number: 10403
+Label: Benign 		Number: 7869
+
+2023-12-19 16:45:38.795672 ../Datas/CICIDS2018/PCAP/Friday-16-02-2018\capDESKTOP-AN3U28N-172.31.64.63
+Label: Benign 		Number: 176
+Label: DoS Hulk 		Number: 0
+Label: DoS Slowhttptest 		Number: 0
+
+2023-12-19 16:45:43.677177 ../Datas/CICIDS2018/PCAP/Friday-16-02-2018\capDESKTOP-AN3U28N-172.31.64.99
+Label: Benign 		Number: 3367
+Label: DoS Hulk 		Number: 0
+Label: DoS Slowhttptest 		Number: 0
+
+2023-12-19 16:45:50.889373 ../Datas/CICIDS2018/PCAP/Friday-16-02-2018\capDESKTOP-AN3U28N-172.31.65.123
+Label: Benign 		Number: 7024
+Label: DoS Hulk 		Number: 0
+Label: DoS Slowhttptest 		Number: 0
+
+2023-12-19 16:59:45.707419 ../Datas/CICIDS2018/PCAP/Friday-16-02-2018\UCAP172.31.69.25-part1.pcap
+Label: Benign 		Number: 662
+Label: DoS Hulk 		Number: 1803379
+Label: DoS Slowhttptest 		Number: 105550
+
+2023-12-19 16:59:48.198967 ../Datas/CICIDS2018/PCAP/Friday-16-02-2018\UCAP172.31.69.25-part2.pcap
+Label: Benign 		Number: 474
+Label: DoS Hulk 		Number: 0
+Label: DoS Slowhttptest 		Number: 0
+
+2023-12-19 16:59:55.177602 ../Datas/CICIDS2018/PCAP/Friday-23-02-2018\capDESKTOP-AN3U28N-172.31.64.26
+Label: Web Attack Sql Injection 		Number: 0
+Label: Web Attack XSS 		Number: 0
+Label: Web Attack Brute Force 		Number: 0
+Label: Benign 		Number: 6334
+
+2023-12-19 17:00:06.686623 ../Datas/CICIDS2018/PCAP/Friday-23-02-2018\capDESKTOP-AN3U28N-172.31.64.65
+Label: Web Attack Sql Injection 		Number: 0
+Label: Web Attack XSS 		Number: 0
+Label: Web Attack Brute Force 		Number: 0
+Label: Benign 		Number: 8273
+
+2023-12-19 17:00:17.698811 ../Datas/CICIDS2018/PCAP/Friday-23-02-2018\capDESKTOP-AN3U28N-172.31.65.10
+Label: Web Attack Sql Injection 		Number: 0
+Label: Web Attack XSS 		Number: 0
+Label: Web Attack Brute Force 		Number: 0
+Label: Benign 		Number: 9387
+
+2023-12-19 17:00:19.180679 ../Datas/CICIDS2018/PCAP/Friday-23-02-2018\UCAP172.31.69.28
+Label: Web Attack Sql Injection 		Number: 33
+Label: Web Attack XSS 		Number: 74
+Label: Web Attack Brute Force 		Number: 123
+Label: Benign 		Number: 902
+
+2023-12-19 17:00:29.109019 ../Datas/CICIDS2018/PCAP/Thursday-01-03-2018\capDESKTOP-AN3U28N-172.31.64.118
+Label: Infiltration 		Number: 0
+Label: Benign 		Number: 11054
+
+2023-12-19 17:00:39.320883 ../Datas/CICIDS2018/PCAP/Thursday-01-03-2018\capDESKTOP-AN3U28N-172.31.64.54
+Label: Infiltration 		Number: 0
+Label: Benign 		Number: 11345
+
+2023-12-19 17:00:39.958453 ../Datas/CICIDS2018/PCAP/Thursday-01-03-2018\capDESKTOP-AN3U28N-172.31.64.71
+Label: Infiltration 		Number: 0
+Label: Benign 		Number: 370
+
+2023-12-19 17:00:43.869253 ../Datas/CICIDS2018/PCAP/Thursday-01-03-2018\capEC2AMAZ-O4EL3NG-172.31.69.13 part1
+Label: Infiltration 		Number: 1
+Label: Benign 		Number: 1671
+
+2023-12-19 17:00:53.287236 ../Datas/CICIDS2018/PCAP/Thursday-01-03-2018\capEC2AMAZ-O4EL3NG-172.31.69.13 part2
+Label: Infiltration 		Number: 1
+Label: Benign 		Number: 49395
+
+2023-12-19 17:01:18.476795 ../Datas/CICIDS2018/PCAP/Thursday-01-03-2018\capEC2AMAZ-O4EL3NG-172.31.69.13 part3
+Label: Infiltration 		Number: 2
+Label: Benign 		Number: 107617
+
+2023-12-19 17:01:20.174030 ../Datas/CICIDS2018/PCAP/Thursday-15-02-2018\capDESKTOP-AN3U28N-172.31.64.54
+Label: DoS GoldenEye 		Number: 0
+Label: DoS Slowloris 		Number: 0
+Label: Benign 		Number: 725
+
+2023-12-19 17:01:20.549032 ../Datas/CICIDS2018/PCAP/Thursday-15-02-2018\capDESKTOP-AN3U28N-172.31.64.67
+Label: DoS GoldenEye 		Number: 0
+Label: DoS Slowloris 		Number: 0
+Label: Benign 		Number: 240
+
+2023-12-19 17:01:21.905155 ../Datas/CICIDS2018/PCAP/Thursday-15-02-2018\capDESKTOP-AN3U28N-172.31.64.95
+Label: DoS GoldenEye 		Number: 0
+Label: DoS Slowloris 		Number: 0
+Label: Benign 		Number: 1703
+
+2023-12-19 17:01:38.844694 ../Datas/CICIDS2018/PCAP/Thursday-15-02-2018\UCAP172.31.69.25
+Label: DoS GoldenEye 		Number: 26860
+Label: DoS Slowloris 		Number: 7162
+Label: Benign 		Number: 1162
+
+2023-12-19 17:01:52.564281 ../Datas/CICIDS2018/PCAP/Thursday-22-02-2018\capDESKTOP-AN3U28N-172.31.64.111
+Label: Web Attack Sql Injection 		Number: 0
+Label: Web Attack XSS 		Number: 0
+Label: Web Attack Brute Force 		Number: 0
+Label: Benign 		Number: 7819
+
+2023-12-19 17:01:59.530964 ../Datas/CICIDS2018/PCAP/Thursday-22-02-2018\capDESKTOP-AN3U28N-172.31.64.46
+Label: Web Attack Sql Injection 		Number: 0
+Label: Web Attack XSS 		Number: 0
+Label: Web Attack Brute Force 		Number: 0
+Label: Benign 		Number: 5929
+
+2023-12-19 17:02:14.413905 ../Datas/CICIDS2018/PCAP/Thursday-22-02-2018\capDESKTOP-AN3U28N-172.31.65.81
+Label: Web Attack Sql Injection 		Number: 0
+Label: Web Attack XSS 		Number: 0
+Label: Web Attack Brute Force 		Number: 0
+Label: Benign 		Number: 13042
+
+2023-12-19 17:02:15.718484 ../Datas/CICIDS2018/PCAP/Thursday-22-02-2018\UCAP172.31.69.28
+Label: Web Attack Sql Injection 		Number: 17
+Label: Web Attack XSS 		Number: 43
+Label: Web Attack Brute Force 		Number: 137
+Label: Benign 		Number: 1090
+
+2023-12-19 17:02:23.016830 ../Datas/CICIDS2018/PCAP/Tuesday-20-02-2018\capDESKTOP-AN3U28N-172.31.64.17
+Label: Benign 		Number: 6559
+Label: DDoS LOIC 		Number: 0
+
+2023-12-19 17:02:34.470092 ../Datas/CICIDS2018/PCAP/Tuesday-20-02-2018\capDESKTOP-AN3U28N-172.31.64.46
+Label: Benign 		Number: 8020
+Label: DDoS LOIC 		Number: 0
+
+2023-12-19 17:02:42.118061 ../Datas/CICIDS2018/PCAP/Tuesday-20-02-2018\capDESKTOP-AN3U28N-172.31.64.84
+Label: Benign 		Number: 7096
+Label: DDoS LOIC 		Number: 0
+
+2023-12-19 17:07:58.194027 ../Datas/CICIDS2018/PCAP/Tuesday-20-02-2018\UCAP172.31.69.25
+Label: Benign 		Number: 596
+Label: DDoS LOIC 		Number: 289328
+
+2023-12-19 17:08:03.073862 ../Datas/CICIDS2018/PCAP/Wednesday-14-02-2018\capDESKTOP-AN3U28N-172.31.64.111
+Label: Benign 		Number: 3990
+Label: SSH Brute Force 		Number: 0
+Label: FTP Brute Force 		Number: 0
+
+2023-12-19 17:08:08.537650 ../Datas/CICIDS2018/PCAP/Wednesday-14-02-2018\capDESKTOP-AN3U28N-172.31.64.46
+Label: Benign 		Number: 7314
+Label: SSH Brute Force 		Number: 0
+Label: FTP Brute Force 		Number: 0
+
+2023-12-19 17:08:14.068453 ../Datas/CICIDS2018/PCAP/Wednesday-14-02-2018\capDESKTOP-AN3U28N-172.31.64.71
+Label: Benign 		Number: 2963
+Label: SSH Brute Force 		Number: 0
+Label: FTP Brute Force 		Number: 0
+
+2023-12-19 17:11:08.657564 ../Datas/CICIDS2018/PCAP/Wednesday-14-02-2018\UCAP172.31.69.25
+Label: Benign 		Number: 2675
+Label: SSH Brute Force 		Number: 93706
+Label: FTP Brute Force 		Number: 192300
+
+2023-12-19 17:11:19.159706 ../Datas/CICIDS2018/PCAP/Wednesday-21-02-2018\capDESKTOP-AN3U28N-172.31.64.26
+Label: DDoS HOIC 		Number: 0
+Label: Benign 		Number: 7213
+
+2023-12-19 17:11:29.619507 ../Datas/CICIDS2018/PCAP/Wednesday-21-02-2018\capDESKTOP-AN3U28N-172.31.64.54
+Label: DDoS HOIC 		Number: 0
+Label: Benign 		Number: 7365
+
+2023-12-19 17:11:35.226165 ../Datas/CICIDS2018/PCAP/Wednesday-21-02-2018\capDESKTOP-AN3U28N-172.31.64.67
+Label: DDoS HOIC 		Number: 0
+Label: Benign 		Number: 4427
+
+2023-12-19 17:19:33.695389 ../Datas/CICIDS2018/PCAP/Wednesday-21-02-2018\UCAP172.31.69.28
+Label: DDoS HOIC 		Number: 1082293
+Label: Benign 		Number: 598
+
+2023-12-19 17:19:50.468424 ../Datas/CICIDS2018/PCAP/Wednesday-28-02-2018\capDESKTOP-AN3U28N-172.31.64.26
+Label: Infiltration 		Number: 0
+Label: Benign 		Number: 12283
+
+2023-12-19 17:20:00.533666 ../Datas/CICIDS2018/PCAP/Wednesday-28-02-2018\capDESKTOP-AN3U28N-172.31.64.63
+Label: Infiltration 		Number: 0
+Label: Benign 		Number: 8097
+
+2023-12-19 17:20:09.944631 ../Datas/CICIDS2018/PCAP/Wednesday-28-02-2018\capDESKTOP-AN3U28N-172.31.64.99
+Label: Infiltration 		Number: 0
+Label: Benign 		Number: 8349
+
+2023-12-19 17:20:49.586804 ../Datas/CICIDS2018/PCAP/Wednesday-28-02-2018\capEC2AMAZ-O4EL3NG-172.31.69.24
+Label: Infiltration 		Number: 2
+Label: Benign 		Number: 188939
+
